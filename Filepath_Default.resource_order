@@ -1,0 +1,15 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Filepath_Default","order":2,"path":"folders/Filepath_Default.yy",},
+    {"name":"System","order":8,"path":"folders/Filepath_Default/System.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"filepath_default_delete","order":4,"path":"scripts/filepath_default_delete/filepath_default_delete.yy",},
+    {"name":"filepath_default_remove","order":2,"path":"scripts/filepath_default_remove/filepath_default_remove.yy",},
+    {"name":"filepath_default_add","order":1,"path":"scripts/filepath_default_add/filepath_default_add.yy",},
+    {"name":"filepath_default_exists","order":3,"path":"scripts/filepath_default_exists/filepath_default_exists.yy",},
+    {"name":"filepath_default_copy","order":5,"path":"scripts/filepath_default_copy/filepath_default_copy.yy",},
+    {"name":"filepath_default_rename","order":6,"path":"scripts/filepath_default_rename/filepath_default_rename.yy",},
+    {"name":"Room1","order":1,"path":"rooms/Room1/Room1.yy",},
+  ],
+}

@@ -1,0 +1,39 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.7",
+  "name": "Filepath_Default",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Filepath_Default","folderPath":"folders/Filepath_Default.yy",},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"System","folderPath":"folders/Filepath_Default/System.yy",},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "LibraryEmitters": [],
+  "MetaData": {
+    "IDEVersion": "2023.6.0.92",
+  },
+  "resources": [
+    {"id":{"name":"filepath_default_delete","path":"scripts/filepath_default_delete/filepath_default_delete.yy",},},
+    {"id":{"name":"filepath_default_remove","path":"scripts/filepath_default_remove/filepath_default_remove.yy",},},
+    {"id":{"name":"__filepath_default_config","path":"scripts/__filepath_default_config/__filepath_default_config.yy",},},
+    {"id":{"name":"filepath_default_add","path":"scripts/filepath_default_add/filepath_default_add.yy",},},
+    {"id":{"name":"filepath_default_exists","path":"scripts/filepath_default_exists/filepath_default_exists.yy",},},
+    {"id":{"name":"filepath_default_copy","path":"scripts/filepath_default_copy/filepath_default_copy.yy",},},
+    {"id":{"name":"filepath_default_rename","path":"scripts/filepath_default_rename/filepath_default_rename.yy",},},
+    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
